@@ -1,4 +1,5 @@
 # SXE_tarea15
+(CÓDIGO EN LA RAMA MASTER)
 
 <img width="750" height="600" alt="image" src="https://github.com/user-attachments/assets/f007a431-8a4f-45d5-930c-f4465e1acfbb" />
 <img width="750" height="600" alt="Captura de pantalla 2025-12-10 131716" src="https://github.com/user-attachments/assets/4158e7b1-1be0-49d6-9062-7715040e2f9e" />
