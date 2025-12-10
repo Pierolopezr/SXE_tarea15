@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_inyeccion_de_bebidas_inyeccion_de_bebidas,inyeccion_de_bebidas.inyeccion_de_bebidas,model_inyeccion_de_bebidas_inyeccion_de_bebidas,base.group_user,1,1,1,1
